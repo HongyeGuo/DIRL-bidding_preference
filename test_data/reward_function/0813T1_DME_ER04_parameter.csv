@@ -1,0 +1,24 @@
+DUID, ER04
+test number, 0308T14_DME
+if Deep, DME
+disDemand, 5
+disPrice, 10
+disQuantity, 10
+disRevenue, 10
+disChosen, 1110
+number of actions, 30
+trajectory length, 14
+IRL_discount, 0.5
+IRL_epochs, 3000
+IRL_learning_rate, 0.001
+start_date, 20171019
+end_date, 20180919
+feature_max, 128.215652333333, 698.27502
+feature_matrix_mean, 77.65071910869555, 546.5630203105591
+learning rate damping rate, 1
+DME_structure, (2, 10, 4)
+DME_l1, 0
+DME_l2, 0
+DME_initialisation, normal
+start, 20210309 14:53:16
+end, 20210309 21:13:24

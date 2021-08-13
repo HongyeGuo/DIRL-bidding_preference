@@ -40,8 +40,11 @@ of IRL and DIRL algorithms.
 If you have any question, feel free to contact me: hyguo@mail.tsinghua.edu.cn
 
 ## Acknowledgements
-The basic codes for IRL and DIRL used in this project are from Matthew Alger's work. The details about his project can
-be found on his github website: https://github.com/MatthewJA/Inverse-Reinforcement-Learning
+The basic codes for IRL and DIRL used in this project are from Matthew Alger's work, including: maxent.py, deep_maxent.py
+, value_iteration.py.
+
+The details about his project can be found on his github website: 
+https://github.com/MatthewJA/Inverse-Reinforcement-Learning
 
 
 
